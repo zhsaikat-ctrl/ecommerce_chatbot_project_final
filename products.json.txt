@@ -1,0 +1,5 @@
+[
+  {"category":"ল্যাপটপ","name":"HP Pavilion 15","price":"৳65000","stock":5,"description":"Intel i5 • 8/512"},
+  {"category":"মোবাইল","name":"Redmi Note 13","price":"৳23999","stock":8,"description":"6/128 • AMOLED"},
+  {"category":"অ্যাক্সেসরিজ","name":"Logitech M331 Silent","price":"৳1799","stock":15,"description":"Wireless mouse"}
+]
